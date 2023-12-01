@@ -24,21 +24,29 @@
 </p>
 
 ## 운영중인 서비스
--
+`OFFLOAD` : 공유 공간 플랫폼
+- [운영중인 링크]( https://offloadwara.netlify.app/)
+
 ## 프로젝트 포트폴리오
 - [esp32와 통신을 주고받는 앱] - Flutter
 
-- [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS  [https://github.com/wara-capstone/OFFLOAD]
+- [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
+  - [https://github.com/wara-capstone/CreativeFusion]
   
 ## 공부해보고싶은 분야
 - MSA
 - CI/CD
 - Cloud 아키텍처
   
-## 개인 블로그
+<h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
+
+- [https://g-db.tistory.com/](https://velog.io/@ryusemin)]
+
+<h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
+
+- [tpals3799@naver.com]
 
 
-## 이메일
-- [tpals3799@gamil.com]
+<h2 style="display: inline-block; vertical-align: middle;">🏆Prize </h2>
 
-## 
+- [4차 산업혁명 기반] 2023년 창의융합인재양성 공모전 우수상
