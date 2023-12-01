@@ -27,6 +27,9 @@
 -
 ## 프로젝트 포트폴리오
 - [esp32와 통신을 주고받는 앱] - Flutter
+
+- [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
+-- [https://github.com/wara-capstone/OFFLOAD]
   
 ## 공부해보고싶은 분야
 - MSA
