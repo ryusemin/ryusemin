@@ -19,10 +19,6 @@
 - [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
   - [https://github.com/wara-capstone/CreativeFusion]
   
-## 공부해보고싶은 분야
-- MSA
-- CI/CD
-- Cloud 아키텍처
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
