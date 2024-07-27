@@ -7,15 +7,7 @@
 ## 기술 스택
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,java,dart,react,spring,flutter,aws,docker" />
 
-## 운영중인 서비스
-`OFFLOAD` : 공유 공간 플랫폼
-- [운영중인 링크]( https://offloadwara.netlify.app/)
 
-## 프로젝트 포트폴리오
-- [esp32와 통신을 주고받는 앱] - Flutter
-
-- [OFFLOAD - 짐 맡기는 플랫폼] - HTML, CSS, JS
-  - [https://github.com/wara-capstone/CreativeFusion]
   
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
