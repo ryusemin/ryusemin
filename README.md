@@ -12,7 +12,7 @@
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
 
-- [https://g-db.tistory.com/](https://velog.io/@ryusemin)]
+- [https://velog.io/@ryusemin](https://velog.io/@ryusemin)]
 
 <h2 style="display: inline-block; vertical-align: middle;">📧이메일</h2>
 
