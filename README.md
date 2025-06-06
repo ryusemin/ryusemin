@@ -1,8 +1,5 @@
 # 환영합니다👋
 
-## 소개
-- 계명대학교 컴퓨터공학전공 컴퓨터공학부에 재학중인 류세민 입니다.
-
 
 ## 기술 스택
 <img src="https://skillicons.dev/icons?i=c,python,html,css,js,java,dart,react,spring,flutter,aws,docker" />
