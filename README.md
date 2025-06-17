@@ -11,7 +11,6 @@
 ### Infra & Tools
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
----
 <!-- 
 ## 💻 Projects
 
@@ -19,8 +18,6 @@
 |--------|-------------|------------|
 | [모의투자 서비스](https://github.com/yourname/mock-invest) | 실시간 주식 시세 조회 및 가상 투자 기능 제공 | Spring Boot, React, WebSocket |
 | [Calendiary](https://github.com/yourname/calendiary) | 일기와 일정을 함께 기록하는 감성 서비스 | Next.js, Tailwind CSS, TypeScript |
-
----
 
 -->
 
