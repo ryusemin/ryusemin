@@ -2,9 +2,12 @@
 
 
 ## 기술 스택
-<img src="https://skillicons.dev/icons?i=c,python,html,css,js,java,dart,react,spring,flutter,aws,docker" />
-
-
+### Front
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+### Back
+<img src="https://skillicons.dev/icons?i=java,spring" />
+### infra
+<img src="https://skillicons.dev/icons?i=aws,docker" />
   
   
 <h2 style="display: inline-block; vertical-align: middle;">🖋개인 블로그</h2>
